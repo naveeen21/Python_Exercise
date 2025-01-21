@@ -13,4 +13,4 @@ This project is a FastAPI-based application that provides endpoints for managing
 
 # Run the application:
 uvicorn main:app --reload
-<b> Access the API at http://127.0.0.1:8000/docs <\b>
+<b> Access the API at http://127.0.0.1:8070/docs <\b>
